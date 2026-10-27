@@ -28,6 +28,8 @@ React & Next.js at the front · Node.js & PostgreSQL behind them · Based in Dha
 
 Owning the **biomethane product** end-to-end on a Svelte 5 / SvelteKit energy-market analytics platform at **Cefalo** — dashboards, charts, and the data layer behind them. Before that, architected a government form-builder platform used across Norwegian municipalities.
 
+On the side, building **[KidLearn](https://github.com/salmanbd100/kidlearn)** ([kidlearn.net](https://kidlearn.net)) — a bilingual English/Bangla learning platform for my daughters: Next.js 16, Express 5, Prisma, contract-tested OpenAPI, and AI-generated content that a human reviews before any child sees it.
+
 ### 🛠️ Tech I work in
 
 **Frontend (daily / expert)**
